@@ -5,23 +5,23 @@ The data comes from the file Ecommerce Customers.csv.
 
 The following Python scripts are included:
 
-1-Dataset.py
+<b>1-Dataset.py</b> :
 Loads the customer data into a Pandas DataFrame and prints some initial information.
 
-2-Statistics_info.py
+<b>2-Statistics_info.py</b> :
 Generates summary statistics and information on the dataset.
 
-3-Graph Plot.py
+<b>3-Graph Plot.py</b> :
 Creates some initial data visualizations with Seaborn to explore relationships.
 
-4-Split dataset.py
+<b>4-Split dataset.py</b> :
 Splits the data into training and test sets.
 
-5-Import, train, test model.py
+<b>5-Import, train, test model.py</b> :
 Imports LinearRegression, trains the model on the training data, and makes predictions on the test data.
 
-6-X,Y test predict.py
+<b>6-X,Y test predict.py</b> :
 Evaluates the model by comparing predictions to actual values and calculating MSE and RMSE.
 
-7-Suggestion.py
+<b>7-Suggestion.py</b> :
 Prints and interprets the model coefficients to provide suggestions to the business.
