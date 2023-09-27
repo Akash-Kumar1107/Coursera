@@ -1,4 +1,4 @@
-<b>Linear Regression Model for Ecommerce Customer Data<b/><br>
+<b>Linear Regression Model for Ecommerce Customer Data</b>
 This repository builds a linear regression model to predict yearly amount spent by ecommerce customers based on their average session length, time on app, time on website, and length of membership.
 
 The data comes from the file Ecommerce Customers.csv.
